@@ -1,6 +1,5 @@
-//your JS code here. If required.
-const line = document.getElementById('line');
 let angle = 0;
+const line = document.getElementById('line');
 
 setInterval(() => {
   angle += 2;
